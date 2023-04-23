@@ -1,0 +1,14 @@
+{
+  "JHGame": {
+    "hupData": {
+      "code": 200,
+      "message": "sucess",
+      "page": true,
+      "score": 1000,
+      "multiple": 10,
+      "play": 100,
+      "version": 100,
+      "name":"Slot Gem Party"
+    }
+  }
+}
