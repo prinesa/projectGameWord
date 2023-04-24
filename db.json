@@ -3,7 +3,7 @@
     "hupData": {
       "code": 200,
       "message": "sucess",
-      "page": false,
+      "page": true,
       "score": 1000,
       "multiple": 10,
       "play": 100,
